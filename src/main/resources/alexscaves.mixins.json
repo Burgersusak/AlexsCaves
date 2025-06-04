@@ -31,7 +31,8 @@
     "PotionUtilsMixin",
     "SeagrassFeatureMixin",
     "ShipwreckStructureMixin",
-    "SwampHutPieceMixin"
+    "SwampHutPieceMixin",
+    "FasterEatingMixin"
   ],
   "client": [
     "client.AdvancementTabMixin",
